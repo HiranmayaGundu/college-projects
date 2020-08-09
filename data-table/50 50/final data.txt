@@ -1,0 +1,16 @@
+Insert 2 min is 8e-05 max is 0.004398 avg is 0.000119272380952
+
+Insert 3 min is 6.6e-05 max is 0.003996 avg is 0.000129562874251
+
+Insert 1.5 min is 0.000105 max is 0.051902 avg is 0.000278002123142
+
+Insert 1.25 min is 3.1e-05 max is 0.001895 avg is 4.56467065868e-05
+
+Insert 1.75 min is 8.4e-05 max is 0.005597 avg is 0.000150523992322
+
+pop 0.5 min is 6.3e-05 max is 0.00181 avg is 0.000114336673347
+
+pop 0.25 min is 8.8e-05 max is 0.000428 avg is 0.000105313684211
+
+pop 0.75 min is 6.9e-05 max is 0.001137 avg is 0.000139169102296
+
